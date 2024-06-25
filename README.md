@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m a PhD student in the Lab for AI in Medical Imaging at **Technical University of Munich**
 - 🔭 My research focuses on developing novel machine learning algorithms for medical image analysis
 - ⚡ I’m currently working on generative AI, self-supervised learning, and multi-modal learning
+- ✨ Know more about me at: [My Website](https://yiiitong.github.io/)
 - 📫 How to reach me: yi_tong.li@tum.de or [LinkedIn](https://www.linkedin.com/in/yitong-li-29ba12211/)
 
